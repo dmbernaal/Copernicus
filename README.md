@@ -1,4 +1,4 @@
-# Copernicus - Framework
+# Copernicus - Deep Learning Framework
 ### *In Development*
 Copernicus is the stand-alone high-level Deep Learning framework which serves as the **data pre-processing** and **dynamic-NN** engine for **Copernicus Alpha**. This entire framework is built using jupyter notebooks and each module exist within the ```exp``` directory. 
 
